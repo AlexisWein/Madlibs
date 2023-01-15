@@ -1,6 +1,7 @@
 # Madlibs
 The purpose of this project is to practice using string concatenation in Python using 3 different approaches.
 <br />
+<br />
 I followed a tutorial from this video:
 <br />
 https://www.youtube.com/watch?v=8ext9G7xspg&t=5236s
